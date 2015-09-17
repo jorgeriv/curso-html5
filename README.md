@@ -34,3 +34,4 @@ Este curso es parte de una serie de cursos de desarrollo web que incluyen:
 * Apendice B - [Soporte]()
 * Apendice C - [Web semantica]()
 * Apendice D - [Referencia de etiquetas]()
+* Apendice E - [SEO]()
